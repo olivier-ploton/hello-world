@@ -5,3 +5,5 @@ This is my 1st repo !!!
 * baz
   
 end of itemize
+_foo_ *foo*
+__bar__ **bar**
