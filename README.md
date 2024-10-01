@@ -1,4 +1,4 @@
-# NOUVEAU TITRE ajouté dans la nouvelle-branche
+finalement c'est du texte qui est ajouté dans la nouvelle-branche
 
 # hello-world
 This is my 1st repo !!!
